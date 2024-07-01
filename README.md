@@ -1,7 +1,7 @@
 <h2>Boas-vindas ao meu perfil 👋</h2>
 
 <p>
-  Sou Desenvolvedor Front-End e curso Tecnologia da Informação<br> pela Universidade Federal Rural do Semi-Árido (UFERSA).
+  Sou desenvolvedor Front-End e curso Tecnologia da Informação<br> pela Universidade Federal Rural do Semi-Árido (UFERSA).
 </p>
 
 <div>
